@@ -32,4 +32,19 @@ Analyze Cyclistic’s historical trip data to discover how members abd casual ri
 
 Data Source
 
+The data archive is available at https://divvy-tripdata.s3.amazonaws.com/index.html.
+
+This project used data from April 2022 to March 2023 (the most recently available 12 months data).
+
+Limitations
+
+Since this is a publicly available dataset, all PII (personal identifiable information) is removed from the datasets. Therefore, it is not possible to perform user based analysis between the two types of customers. Which would have provided critical insigths for understanding behavioral differences.
+
+The datasets are created with a single identifier "ride_id" that represents each unique ride completed by the customers. I first analyzed the structure of each dataset and realized that each has approximately % 10 missing data in "Null or blank" format. This information has benn removed from the data.
+
+In addition to requested recommendations, above limitations have also communicated with the stakeholders.
+
+Data Analysis
+
+
 
