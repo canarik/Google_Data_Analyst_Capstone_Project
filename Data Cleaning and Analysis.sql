@@ -95,6 +95,12 @@ FROM public.cleaned_combined_data;
 
 -- MIN: 1.02, MAX: 1439.37, MEAN: 16.90
 
+-- MODE value of "day_of_week"
+
+SELECT MODE() WITHIN GROUP (ORDER BY day_of_week) from public.cleaned_combined_data;
+
+-- Query returned SATURDAY as mode day of the week.
+
 -- Average ride length for members and casual riders -- 
 
 SELECT member_casual, ROUND(AVG(ride_length),2)
