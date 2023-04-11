@@ -71,7 +71,9 @@ Data Analysis - SQL
 Data Analysis - R Studio
 
 1) Imported CSV dataset
-2) 
+2) Added new column for seasons
+3) I calculated following descriptive statistics: total number of rows, distinct values, min, max, mean of ride length, mode day of the week.
+4) 
 
 
 
