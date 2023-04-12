@@ -75,7 +75,7 @@ Data Analysis - R Studio
 3) I calculated following descriptive statistics: total number of rows, distinct values, min, max, mean of ride length, mode day of the week.
 4) I also calculated following statistics: Number of rides by user type and rideable type, Average ride length by user type and hour-day of week-month-season.
 5) I created plots for calculations in item (4).
-6) Exported final dataset in CSV format.
+6) Exported final dataset for Tableau in CSV format.
 
 Data Visualisation - Tableau
 
