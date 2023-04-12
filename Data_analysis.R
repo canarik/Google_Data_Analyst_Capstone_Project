@@ -174,6 +174,10 @@ cleaned_combined_data %>%
   scale_fill_manual(values = c("orange", "purple4"),
                     labels = c("casual","member"))
 
+# Exporting final dataset for Tableau in CSV format
+
+write_csv(cleaned_combined_data, '/Users/canarik/Desktop/Cyclist_data/tab_cleaned_combined_data.csv')
+
 ##########################################################
 
 
