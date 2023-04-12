@@ -5,16 +5,13 @@ install.packages("dplyr")
 install.packages("skimr")
 install.packages("janitor")
 install.packages("lubridate")
-install.packages("data.table")
-install.packages("DescTools")
 
 library(tidyverse)
 library(dplyr)
 library(skimr)
 library(janitor)
 library(lubridate)
-library(data.table)
-library(DescTools)
+
 
 # Loading SQL prepared clean CSV file
 
