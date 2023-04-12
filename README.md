@@ -71,9 +71,14 @@ Data Analysis - SQL
 Data Analysis - R Studio
 
 1) Imported CSV dataset
-2) Added new column for seasons
+2) Added new column for hour and season
 3) I calculated following descriptive statistics: total number of rows, distinct values, min, max, mean of ride length, mode day of the week.
-4) 
+4) I also calculated following statistics: Number of rides by user type and rideable type, Average ride length by user type and hour-day of week-month-season.
+5) I created plots for calculations in item (4).
+
+Data Visualisation - Tableau
+
+
 
 
 
