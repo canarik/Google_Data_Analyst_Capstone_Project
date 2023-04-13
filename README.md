@@ -79,6 +79,17 @@ Data Analysis - R Studio
 
 Data Visualisation - Tableau
 
+I created a dashboard for descriptive statistics,  bumber of rides by user type and rideable type, average ride length by user type and hour-day of week-month-season.
+
+Dashboard can be reached from:
+
+https://public.tableau.com/app/profile/can.arik/viz/GoogleDataAnalyticsCapstoneProject-Cyclistic_16813884460640/GoogleDataAnalyticsCapstoneProjectCyclisticData
+
+Recommendations
+
+1) Both casual and member riders are highly active from May through September, marketting campaings can be planned during this timeframe.
+2) Casual riders are mostly active on weeekends and start to use at around 10:00 AM, therefore tailored membership offerengs can be made through targetting these specific timeframes such as: seasona membership or early-bird membership.
+3) Average ride time of casual users significantly higher then mambers, theerfore if above marketting strategies sill do not convince some casual membership, offering cost/minute discounts would motivate casual riders to ride even longer which ultimately increase the revenue.
 
 
 
